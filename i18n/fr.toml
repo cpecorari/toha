@@ -3,19 +3,19 @@
 other = "Accueil"
 
 [posts]
-other = "Des postes"
+other = "Des posts"
 
 [at]
-other = "chez"
+other = "de"
 
 [resume]
-other = "Mon Curriculum vitæ"
+other = "Notre brochette"
 
 [navigation]
 other = "Naviguation"
 
 [contact_me]
-other = "Contactez moi :"
+other = "Contactez nous :"
 
 [newsletter_text]
 other = "Restez à jour par e-mail"
